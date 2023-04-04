@@ -1,4 +1,4 @@
 def call() {
      sh 'echo "hello from fun"'
-     sh "./hello-world.sh"
+     runLinuxScript(name: "hello-world.sh")
 }
