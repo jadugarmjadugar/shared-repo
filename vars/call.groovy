@@ -3,3 +3,5 @@
 def call(){
     echo "hello"
 }
+
+return this
