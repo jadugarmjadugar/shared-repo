@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
-def call(){
+def callfun(){
     sh "echo hello"
 }
