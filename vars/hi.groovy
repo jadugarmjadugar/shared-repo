@@ -1,4 +1,4 @@
 def call() {
      sh 'echo "hello"'
-     sh "./vars/hello-world.sh"
+     sh "./shared-repo/vars/hello-world.sh"
 }
