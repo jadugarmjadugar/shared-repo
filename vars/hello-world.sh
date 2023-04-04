@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "hi external"
+sh 'echo "hi external"'
