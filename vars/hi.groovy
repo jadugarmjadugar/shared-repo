@@ -1,4 +1,4 @@
 def call() {
      sh 'echo "hello"'
-     sh "hello-world.sh"
+     sh "sh hello-world.sh"
 }
